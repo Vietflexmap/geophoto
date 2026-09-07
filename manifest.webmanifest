@@ -1,0 +1,10 @@
+{
+  "name": "GeoPhoto AI Field GIS",
+  "short_name": "GeoPhoto AI",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071522",
+  "theme_color": "#071522",
+  "description": "AI-assisted Field GIS: EXIF, OCR/AI, GPS Validator, Confidence, WebGIS, FOV, Measure, QA and Export"
+}
